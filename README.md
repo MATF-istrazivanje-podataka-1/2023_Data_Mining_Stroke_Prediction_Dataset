@@ -21,8 +21,8 @@ Klasifikacija:
 
 Klasterovanje:
   1. K sredina
-  2. Bisektivna K sredina
-  3. Sakupljajuće hijerarhijsko klasterovanje
+  2. Bisekcija K sredina
+  3. Algoritam sakupljajućeg klasterovanja
 
 Pravila pridruživanja:
   1. Apriori
